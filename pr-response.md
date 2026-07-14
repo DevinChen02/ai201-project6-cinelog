@@ -61,7 +61,11 @@ fca4f85 fix: rename save_to_watchlist to add_to_watchlist per naming convention
 56893de feat: add watchlist service and add_to_watchlist endpoint
 ```
 
-> **Screenshot:** paste your `git log --oneline` screenshot here. The block above is the exact output to capture (the top `docs:` commit hash will shift by one short-hash whenever the doc itself is re-amended — the screenshot you take is the source of truth). Eight commits, every message conventional (`feat:`/`refactor:`/`fix:`/`test:`/`docs:`), one logical change each, and no merge commits (`git log --merges origin/main..HEAD` is empty).
+**Screenshot of `git log --oneline`:**
+
+![git log --oneline output](gitlog_screenshot.png)
+
+The block above is the exact output captured. Eight commits, every message conventional (`feat:`/`refactor:`/`fix:`/`test:`/`docs:`), one logical change each, and no merge commits (`git log --merges origin/main..HEAD` is empty).
 
 ---
 
